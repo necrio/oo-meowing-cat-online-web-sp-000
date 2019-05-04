@@ -6,7 +6,7 @@ class Cat
   end
   def meow
     puts "Meow!"
-    
+
   end
 
 end
